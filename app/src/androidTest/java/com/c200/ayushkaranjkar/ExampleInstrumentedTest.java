@@ -1,4 +1,4 @@
-package com.fahim.geminiapistarter;
+package com.c200.ayushkaranjkar;
 
 import android.content.Context;
 
